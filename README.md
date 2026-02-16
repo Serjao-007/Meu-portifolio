@@ -1,81 +1,75 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b0f14,100:00ff88&height=200&section=header&text=Sergio%20Reis&fontSize=48&fontColor=00ff88&animation=fadeIn" />
+</p>
 
-<h1>👨‍💻 Sergio Reis</h1>
-
-<br>
-
-<img src="https://avatars.githubusercontent.com/u/231530518?v=4" width="140" />
-
-
-<br><br>
-
-### 🚀 Desenvolvimento Web • Programação • Linux • Cybersegurança
-
-Meu nome é **Sergio Reis Matos Morreira**, tenho **17 anos** e sou apaixonado por **tecnologia**, principalmente nas áreas de **programação**, **redes** e **cybersegurança**.  
-Atualmente, faço **faculdade de Engenharia de Software na Estácio**, e estou sempre buscando evoluir com projetos práticos, desafios e novas experiências.
-
-Sou um cara **esforçado, dedicado e sempre aprendendo coisas novas**.  
-Tenho um perfil **otimista, criativo e persistente**, focado em evolução e projetos.
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Front-End+em+evolu%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript;Estudante+de+Cyberseguran%C3%A7a+e+Linux&font=Fira%20Code&center=true&width=800&height=45&color=00FF88&pause=1200" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+## 🌐 Portfólio Online
 
-<div align="center">
+👉 Acesse meu site pessoal:  
+🔗 https://serjao-007.github.io/Meu-portifolio/
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" />
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" />
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" />
-</a>
-<a href="https://devdocs.io/c/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</a>
-
-</div>
+Esse site foi feito com **HTML, CSS e JavaScript** com foco em estilo, responsividade e animações.
 
 ---
 
-## 🏃‍♂️ Hobbies
+## 💻 Sobre Mim
 
-• 🏃‍♂️ Corrida  
-• 🎸 Violão  
-• ⚽ Futebol  
-• 🏐 Vôlei  
+Sou **Sergio Reis**, desenvolvedor em formação com foco em:
+
+- Desenvolvimento Web (HTML, CSS, JS)  
+- Linux  
+- Cybersegurança  
+- Banco de Dados (MySQL)  
+- Python básico  
+
+Sempre buscando aprender mais e criar projetos reais que mostram minha evolução.
 
 ---
 
-## 📌 Contato
+## 🧰 Skills & Ferramentas
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,linux,git,github" />
+</p>
 
-<a href="https://github.com/Serjao-007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+---
 
-<a href="https://www.linkedin.com/in/sergio-matos-s90000/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## 🚀 Projetos em Destaque
 
-</div>
+### 🔹 **Meu Portfólio**
+- Site pessoal com meus projetos e informações  
+- Tecnologias: HTML, CSS, JavaScript  
+- Link: https://serjao-007.github.io/Meu-portifolio/
+
+*(Adicione mais projetos aqui conforme for criando!)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Serjao-007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjao-007&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  📌 GitHub: https://github.com/Serjao-007  
+  📌 Portfolio: https://serjao-007.github.io/Meu-portifolio/  
+  📌 LinkedIn: *(adicione aqui se tiver)*  
+  📌 Email: *(adicione aqui se quiser)*  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00ff88,100:0b0f14&height=100&section=footer" />
+</p>
