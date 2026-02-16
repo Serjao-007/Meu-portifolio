@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- FUNDO DARK ROXO LINEAR GRADIENT SIMULADO COM GIF/IMG -->
-<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="100%" style="border-radius: 15px;" />
+<img src="[https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif](https://avatars.githubusercontent.com/u/231530518?v=4)" width="100%" style="border-radius: 15px;" />
 
 <!-- FOTO REDONDA -->
 <img src="assets/perfil.png" width="160" style="border-radius: 50%; border: 3px solid #8a2be2; margin-top: -80px;" />
