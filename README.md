@@ -36,6 +36,16 @@
 
 ---
 
+## 🎯 Hobbies
+
+- 🎮 Jogar e explorar games de estratégia e ação  
+- 🎵 Música eletrônica e cyberpunk  
+- 📚 Leitura de tecnologia e ficção científica  
+- 🚴‍♂️ Bicicleta e atividades ao ar livre  
+- 🖌️ Criar artes digitais e design gráfico  
+
+---
+
 ## 🧰 Tecnologias & Ferramentas
 
 <div align="center">
