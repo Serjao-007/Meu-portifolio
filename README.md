@@ -1,6 +1,7 @@
 <div align="center">
+        # 👨‍💻 Sergio Reis
 
-# 👨‍💻 Sergio Reis
+<img src="https://avatars.githubusercontent.com/u/231530518?s=400&u=9a7ed3c5a4a7ffef6e924ed0f227b274d2914f46&v=4"/>
 
 ### 🚀 Desenvolvimento Web • Programação • Linux • Cybersegurança
 
@@ -45,23 +46,12 @@ Tenho um perfil **otimista, criativo e persistente**, focado em evolução e pro
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Serjao-007&show_icons=true&theme=dark&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjao-007&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
----
-
 ## 🏃‍♂️ Hobbies
 
-🏃‍♂️ Corrida • 🚴‍♂️ Bike • 🎸 Violão • ⚽ Futebol • 🏐 Vôlei
+• 🏃‍♂️ Corrida
+• 🎸 Violão 
+• ⚽ Futebol 
+• 🏐 Vôlei
 
 ---
 
@@ -73,7 +63,7 @@ Tenho um perfil **otimista, criativo e persistente**, focado em evolução e pro
   <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/sergio-matos-s90000/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
