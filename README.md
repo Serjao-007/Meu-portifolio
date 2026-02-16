@@ -1,11 +1,12 @@
 <div align="center">
-        # 👨‍💻 Sergio Reis
-<br>
-        
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/231530518?v=4" width="160" style="border-radius: 50%;" />
-</div>
 
+<h1>👨‍💻 Sergio Reis</h1>
+
+<br>
+
+<img src="https://avatars.githubusercontent.com/u/231530518?v=4" width="160" style="border-radius: 50%;" />
+
+<br><br>
 
 ### 🚀 Desenvolvimento Web • Programação • Linux • Cybersegurança
 
@@ -50,12 +51,14 @@ Tenho um perfil **otimista, criativo e persistente**, focado em evolução e pro
 
 </div>
 
+---
+
 ## 🏃‍♂️ Hobbies
 
-• 🏃‍♂️ Corrida
-• 🎸 Violão 
-• ⚽ Futebol 
-• 🏐 Vôlei
+• 🏃‍♂️ Corrida  
+• 🎸 Violão  
+• ⚽ Futebol  
+• 🏐 Vôlei  
 
 ---
 
