@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/231530518?v=4" width="160" style="border-radius: 50%;" />
+<img src="assets/serjao_profile_rounded.png"/>
 
 <br><br>
 
