@@ -38,11 +38,12 @@
 
 ## 🎯 Hobbies
 
-- 🎮 Jogar e explorar games de estratégia e ação  
-- 🎵 Música eletrônica e cyberpunk  
-- 📚 Leitura de tecnologia e ficção científica  
-- 🚴‍♂️ Bicicleta e atividades ao ar livre  
-- 🖌️ Criar artes digitais e design gráfico  
+- 🎸 Tocar violão e explorar música  
+- 🏃‍♂️ Correr e manter energia ativa  
+- 🎮 Jogar games de FPS  
+- 🗺️ Aventuras e explorar novos lugares  
+- 💡 Criar invenções e projetos experimentais  
+
 
 ---
 
