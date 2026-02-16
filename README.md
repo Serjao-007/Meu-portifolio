@@ -1,16 +1,18 @@
 <div align="center">
 
+<!-- FOTO REDONDA -->
 <img src="assets/perfil.png" width="160" style="border-radius: 50%;" />
 
-# 👋 Olá, eu sou o **Sergio Reis**
+# 👋 Olá, eu sou **Sergio Reis**
 
-### 💻 Desenvolvedor em evolução • 🌙 Dark Theme • 🛡️ Cybersegurança
+### 💻 Desenvolvedor Web & Cybersegurança • Dark Theme • Projetos Reais
 
 <p>
 Sou apaixonado por tecnologia e evolução constante.  
-Estudo desenvolvimento web, Linux e cybersegurança, sempre buscando aprender na prática e criar projetos reais.
+Estudo desenvolvimento web, Linux e Cybersegurança, sempre aprendendo na prática e criando projetos reais.
 </p>
 
+<!-- BADGES -->
 <a href="https://serjao-007.github.io/Meu-portifolio/">
   <img src="https://img.shields.io/badge/🌐%20Portfólio-Online-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=00ff88" />
 </a>
@@ -20,7 +22,8 @@ Estudo desenvolvimento web, Linux e cybersegurança, sempre buscando aprender na
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+GitHub...;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+MySQL+%7C+Linux;Cyberseguran%C3%A7a+%7C+Projetos+Reais&font=Fira%20Code&center=true&width=900&height=45&color=00FF88&pause=1200" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+GitHub...;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+MySQL+%7C+Linux;Cyberseguran%C3%A7a+%7C+Projetos+Reais&font=Fira+Code&center=true&width=900&height=45&color=00FF88&pause=1200" />
 
 </div>
 
@@ -28,10 +31,10 @@ Estudo desenvolvimento web, Linux e cybersegurança, sempre buscando aprender na
 
 ## 🌐 Meu Portfólio
 
-🔗 **Acesse aqui:**  
-➡️ https://serjao-007.github.io/Meu-portifolio/
+🚀 Confira meu site pessoal:  
+🔗 [Meu Portfólio Online](https://serjao-007.github.io/Meu-portifolio/)
 
-📌 Projeto feito com **HTML, CSS e JavaScript**, com foco em design, responsividade e boas práticas.
+📌 Desenvolvido com **HTML, CSS e JavaScript**, focado em design, responsividade e boas práticas.
 
 ---
 
@@ -45,7 +48,7 @@ Estudo desenvolvimento web, Linux e cybersegurança, sempre buscando aprender na
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql,linux,git,github" />
@@ -55,18 +58,19 @@ Estudo desenvolvimento web, Linux e cybersegurança, sempre buscando aprender na
 
 ## 🚀 Projetos em Destaque
 
-### 🔥 Meu Portfólio
-📌 Site pessoal para apresentar meus projetos e habilidades.  
-- Tecnologias: **HTML, CSS, JavaScript**
-- Link: https://serjao-007.github.io/Meu-portifolio/
+### 🔹 Meu Portfólio
+- Site pessoal com meus projetos e informações  
+- Tecnologias: **HTML, CSS, JavaScript**  
+- Link: [Visualizar](https://serjao-007.github.io/Meu-portifolio/)
 
-### 🌍 Meu Primeiro Site
-📌 Meu primeiro projeto web e início da minha jornada no desenvolvimento.  
-- Tecnologias: **HTML, CSS, JavaScript**
+### 🔹 Meu Primeiro Site
+- Meu primeiro projeto web e início da jornada  
+- Tecnologias: **HTML, CSS, JavaScript**  
+- Link: [Visualizar](https://serjao-007.github.io/Meu-portifolio/)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Serjao-007&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -83,12 +87,22 @@ Estudo desenvolvimento web, Linux e cybersegurança, sempre buscando aprender na
 
 ---
 
+## 🐍 Snake (Animação de Contribuições)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Serjao-007/Serjao-007/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
 ## 📫 Contato
 
-- 🌐 Portfólio: https://serjao-007.github.io/Meu-portifolio/  
-- 🐙 GitHub: https://github.com/Serjao-007  
-- 💼 LinkedIn: *(adicione aqui se quiser)*  
-- ✉️ Email: *(adicione aqui se quiser)*  
+<p align="center">
+- 🌐 Portfólio: [Meu Portfólio Online](https://serjao-007.github.io/Meu-portifolio/)  
+- 🐙 GitHub: [Sergio-007](https://github.com/Serjao-007)  
+- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-linkedin)  
+- ✉️ Email: seuemail@example.com  
+</p>
 
 ---
 
