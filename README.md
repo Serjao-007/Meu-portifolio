@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/serjao_profile_rounded.png"/>
+<img src="https://avatars.githubusercontent.com/u/231530518?v=4"/>
 
 <br><br>
 
