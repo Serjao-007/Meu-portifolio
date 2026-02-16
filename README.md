@@ -1,11 +1,14 @@
 <div align="center">
 
+<!-- FUNDO DARK ROXO LINEAR GRADIENT SIMULADO COM GIF/IMG -->
+<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="100%" style="border-radius: 15px;" />
+
 <!-- FOTO REDONDA -->
-<img src="assets/perfil.png" width="160" style="border-radius: 50%;" />
+<img src="assets/perfil.png" width="160" style="border-radius: 50%; border: 3px solid #8a2be2; margin-top: -80px;" />
 
 # 👋 Olá, eu sou **Sergio Reis**
 
-### 💻 Desenvolvedor Web & Cybersegurança • Dark Theme • Projetos Reais
+### 💻 Desenvolvedor Web & Cybersecurity • Dark Theme • Cyberpunk Style
 
 <p>
 Sou apaixonado por tecnologia e evolução constante.  
@@ -14,16 +17,16 @@ Estudo desenvolvimento web, Linux e Cybersegurança, sempre aprendendo na práti
 
 <!-- BADGES -->
 <a href="https://serjao-007.github.io/Meu-portifolio/">
-  <img src="https://img.shields.io/badge/🌐%20Portfólio-Online-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/🌐%20Portfólio-Online-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=8a2be2" />
 </a>
 <a href="https://github.com/Serjao-007">
-  <img src="https://img.shields.io/badge/🐙%20GitHub-Serjao--007-0b0f14?style=for-the-badge&logo=github&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/🐙%20GitHub-Serjao--007-0b0f14?style=for-the-badge&logo=github&logoColor=8a2be2" />
 </a>
 
 <br><br>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+GitHub...;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+MySQL+%7C+Linux;Cyberseguran%C3%A7a+%7C+Projetos+Reais&font=Fira+Code&center=true&width=900&height=45&color=00FF88&pause=1200" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+GitHub...;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+MySQL+%7C+Linux;Cyberseguran%C3%A7a+%7C+Projetos+Reais&font=Fira+Code&center=true&width=900&height=45&color=8a2be2&pause=1200" />
 
 </div>
 
@@ -34,7 +37,7 @@ Estudo desenvolvimento web, Linux e Cybersegurança, sempre aprendendo na práti
 🚀 Confira meu site pessoal:  
 🔗 [Meu Portfólio Online](https://serjao-007.github.io/Meu-portifolio/)
 
-📌 Desenvolvido com **HTML, CSS e JavaScript**, focado em design, responsividade e boas práticas.
+📌 Projeto feito com **HTML, CSS e JavaScript**, focado em design, responsividade e animações cyberpunk.
 
 ---
 
@@ -73,8 +76,8 @@ Estudo desenvolvimento web, Linux e Cybersegurança, sempre aprendendo na práti
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Serjao-007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjao-007&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Serjao-007&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjao-007&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -82,7 +85,7 @@ Estudo desenvolvimento web, Linux e Cybersegurança, sempre aprendendo na práti
 ## ⚡ Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serjao-007&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serjao-007&theme=react-dark&hide_border=true" />
 </div>
 
 ---
@@ -100,12 +103,12 @@ Estudo desenvolvimento web, Linux e Cybersegurança, sempre aprendendo na práti
 <p align="center">
 - 🌐 Portfólio: [Meu Portfólio Online](https://serjao-007.github.io/Meu-portifolio/)  
 - 🐙 GitHub: [Sergio-007](https://github.com/Serjao-007)  
-- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-linkedin)  
-- ✉️ Email: seuemail@example.com  
+- 💼 LinkedIn: *(adicione aqui se quiser)*  
+- ✉️ Email: *(adicione aqui se quiser)*  
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,100:00ff88&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,100:8a2be2&height=120&section=footer" />
 </div>
