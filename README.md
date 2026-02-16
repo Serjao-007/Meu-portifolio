@@ -8,13 +8,9 @@
 
 # 👋 Olá, eu sou **Sergio Reis**
 
-### 💻 Desenvolvedor Web & Cybersecurity • Dark Theme • Cyberpunk Style
+### Estudante de Engenharia de Software
 
-<p>
-Sou apaixonado por tecnologia e evolução constante.  
-Estudo desenvolvimento web, Linux e Cybersegurança, sempre aprendendo na prática e criando projetos reais.
-</p>
-
+<p> Estudante de Engenharia de Software apaixonado por tecnologia e inovação, sempre em evolução. Estudo desenvolvimento web, Linux e cibersegurança, aplicando conhecimentos na prática e criando projetos reais que unem funcionalidade e estilo. </p>
 <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+GitHub...;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+MySQL+%7C+Linux;Cyberseguran%C3%A7a+%7C+Projetos+Reais&font=Fira+Code&center=true&width=900&height=45&color=8a2be2&pause=1200" />
 
 </div>
@@ -24,7 +20,7 @@ Estudo desenvolvimento web, Linux e Cybersegurança, sempre aprendendo na práti
 ## 🌐 Meu Portfólio
 
 🚀 Confira meu site pessoal:  
-🔗 [Meu Portfólio Online](https://serjao-007.github.io/Meu-portifolio/)
+🔗 [Meu Portfólio Online](https://github.com/Serjao-007/Meu-portifolio)
 
 📌 Projeto feito com **HTML, CSS e JavaScript**, focado em design, responsividade e animações cyberpunk.
 
@@ -48,32 +44,10 @@ Estudo desenvolvimento web, Linux e Cybersegurança, sempre aprendendo na práti
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🔹 Meu Portfólio
-- Site pessoal com meus projetos e informações  
-- Tecnologias: **HTML, CSS, JavaScript**  
-- Link: [Visualizar](https://serjao-007.github.io/Meu-portifolio/)
-
-### 🔹 Meu Primeiro Site
-- Meu primeiro projeto web e início da jornada  
-- Tecnologias: **HTML, CSS, JavaScript**  
-- Link: [Visualizar](https://serjao-007.github.io/Meu-portifolio/)
-
-
-## ⚡ Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serjao-007&theme=react-dark&hide_border=true" />
-</div>
-
 ## 📫 Contato
-
 <p align="center">
-- 🌐 Portfólio: [Meu Portfólio Online](https://serjao-007.github.io/Meu-portifolio/)  
 - 🐙 GitHub: [Sergio-007](https://github.com/Serjao-007)  
-- 💼 LinkedIn: *(adicione aqui se quiser)*  
-- ✉️ Email: *(adicione aqui se quiser)*  
+- 💼 LinkedIn: *(www.linkedin.com/in/sergio-matos-s90000)*  
 </p>
 
 ---
