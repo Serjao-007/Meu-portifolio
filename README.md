@@ -4,11 +4,15 @@
 
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/231530518?v=4"/>
+<img src="https://avatars.githubusercontent.com/u/231530518?v=4" width="140" />
+
 
 <br><br>
 
 ### 🚀 Desenvolvimento Web • Programação • Linux • Cybersegurança
+
+Meu nome é **Sergio Reis Matos Morreira**, tenho **17 anos** e sou apaixonado por **tecnologia**, principalmente nas áreas de **programação**, **redes** e **cybersegurança**.  
+Atualmente, faço **faculdade de Engenharia de Software na Estácio**, e estou sempre buscando evoluir com projetos práticos, desafios e novas experiências.
 
 Sou um cara **esforçado, dedicado e sempre aprendendo coisas novas**.  
 Tenho um perfil **otimista, criativo e persistente**, focado em evolução e projetos.
